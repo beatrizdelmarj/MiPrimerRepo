@@ -1,2 +1,2 @@
 # MiPrimerRepo
-Aprendiendo a usas Github
+Aprendiendo a usar Github :)
